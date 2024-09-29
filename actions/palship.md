@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-09-29T14:00:48.653Z
+date: 2024-09-29T14:01:27.410Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -72,7 +72,7 @@ Note that the Gazans can be a tricky combination of *demanding* and *sensitive*,
 
 The weekly amount can be anything from 15 USD to 60 USD, depending on the family and the financial situation of the pal.
 
-## What you need to do to get started
+## How do I get started (action checklist)
 
 - [X] Decide on whether you want to commit yourself to being a pal
 - [X] Be prepared to learn new digital skills (to buy and send digital currency)
