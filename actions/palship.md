@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-09-29T13:19:23.913Z
+date: 2024-09-29T13:36:56.151Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -10,18 +10,19 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 # Safe Palship Program
 
-## Slogan
+## ّIntroduction
 
-> They are not numbers, and we are not "money transfers"
+> Gazans are mere not numbers to outsiders, and outsiders are not mere "money transfers" and "GoFundMe campaigns" to Gazans, we are in this together, this is **palship**, which is the kind of solidarity the world needs for this war to end
 
-The goal of this palship program is to move everyone from being a spectator of the war in Gaza to being a participant and a witness.
+**The goal of palship** is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness.
 
-The goal, is to cause a shift in perception from viewing the war with the lenses of "your problems" to viewing it as a Gazan on the ground, would.
+**The goal of palship** is to cultivate a fiest-hand understanding, of how wars (like this one) are _sustained_ and _financed_, for you to become a beacon of peace in the world, when this war is over.
 
-The goal, is to make you understand, through real contact, how wars like this one are sustained and financed, for you to become a beacon of peace in the world, when this war is over.
+**Hence, the ultimate goal** is to convert you, the pal, from a social media actor to an actual advocate of peace and harmony...
 
-The goal, is to convert you, from a social media bot to an actual peace advocate...
+> Remember that many of your most favourite children books, were actually written by World War II soldiers who have seen so much death and destruction and needed to heal themselves, and here we are, in 2024, able to witness a genocide from afar, and by doing so, we can all be in the same place as those soldiers. Having seen children blown into bits on camera, hanging from a steel rod, remains eaten by dogs, head wide open, and bodies flattended... This pain we all carry from these images, will only make us realise that we do not want it for anyone, we want all the children to live. This realisation (and the immense healing behind it) will make us enders rather than reciprocators, of violence, aggression, and murder.
 
+## More information
 ### Pitch
 
 Do you find yourself nowadays scrolling endlessly on social media? With feed full of atrocities that are being comitted by the Israeli army in Gaza?
