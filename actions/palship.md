@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-09-29T13:58:30.872Z
+date: 2024-09-29T14:00:48.653Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -74,14 +74,16 @@ The weekly amount can be anything from 15 USD to 60 USD, depending on the family
 
 ## What you need to do to get started
 
-- Decide on whether you want to commit yourself to being a pal
-- Be prepared to learn new digital skills (to buy and send digital currency)
-- Be prepared to use a telephony-over-internet app on your phone
-- Choose a weekly amount that is comfortable for you
-- Choose between open-ended palship or a fixed-term that can be renewed (e.g. 3 months)
-- Be willing to be involved emotionally with people in a war zone, while seeing them as your own family
-- Be prepared to open up, share, and receive as much as give in this interaction. Otherwise it will not feel genuine to the Gazans, and will not feel respectful. They are very proud and very generous people.
+- [X] Decide on whether you want to commit yourself to being a pal
+- [X] Be prepared to learn new digital skills (to buy and send digital currency)
+- [X] Be prepared to use a telephony-over-internet app on your phone
+- [X] Choose a weekly amount that is comfortable for you
+- [X] Choose between open-ended palship or a fixed-term that can be renewed (e.g. 3 months)
+- [X] Be willing to be involved emotionally with people in a war zone, while seeing them as your own family
+- [X] Be prepared to open up, share, and receive as much as give in this interaction. Otherwise it will not feel genuine to the Gazans, and will not feel respectful. They are very proud and very generous people.
 
 ## Contact
 
-If you read all of the above and you want to proceed becoming a pal, please reach out to orwa.diraneyya@gmail.com
+If you read all of the above and you want to proceed becoming a pal, please reach out to info@theworkgroup.org
+
+When sending an email, please mention the initiative you want to join (in this case, the "Palship Program in Gaza") and your confirmation that you went over the action checklist.
