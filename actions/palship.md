@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-09-29T13:39:47.776Z
+date: 2024-09-29T13:40:07.593Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -18,7 +18,7 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 **The goal of palship** is to cultivate a *first-hand understanding,* of how wars (like this one) are _sustained_ and _financed_, for you to recognise the signs and become a beacon of peace in the world, when this war is over.
 
-**Hence, the ultimate goal** is to convert you, the pal, from being a social media actor to an actual advocate of peace and harmony...
+**Hence, the ultimate goal** is to convert you, the pal, from being a social media actor to becoming an actual advocate of peace and harmony...
 
 > Remember that many of your most favourite children books, were actually written by World War II soldiers who have seen so much death and destruction and needed to heal themselves, and here we are, in 2024, able to witness a genocide from afar, and by doing so, we can all be in the same place as those soldiers. Having seen children blown into bits on camera, hanging from a steel rod, remains eaten by dogs, head wide open, and bodies flattended... This pain we all carry from these images, will only make us realise that we do not want it for anyone, we want all the children to live. This realisation (and the immense healing behind it) will make us enders rather than reciprocators, of violence, aggression, and murder.
 
