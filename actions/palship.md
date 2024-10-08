@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-09-29T14:02:12.975Z
+date: 2024-10-08T14:31:28.287Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -12,15 +12,11 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 ## ّIntroduction
 
-> Gazans are not mere numbers to outsiders, and outsiders are not mere "money transfers"/"GoFundMe campaigns" to Gazans, we are in this together, this is **palship**, which is the kind of solidarity the world needs for this war to end
+> Gazans are not mere numbers to outsiders, and outsiders are not mere "money transfers" or "GoFundMe campaigns" to Gazans. We are in this together, and this is **palship** - a kind of solidarity that the world needs to end this war.
 
-**The goal of palship** is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness.
+The goal of palship is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness. We aim to cultivate a first-hand understanding of how wars (like this one) are sustained and financed, so that you can recognize the signs and become a beacon of peace in the world, when this war is over.
 
-**The goal of palship** is to cultivate a *first-hand understanding,* of how wars (like this one) are _sustained_ and _financed_, for you to recognise the signs and become a beacon of peace in the world, when this war is over.
-
-**Hence, the ultimate goal** is to convert you, the pal, from being a social media actor to becoming an actual advocate of peace and harmony...
-
-> Remember that many of your most favourite children books, were actually written by World War II soldiers who have seen so much death and destruction and needed to heal themselves, upon returning to their families and to their civil lives, and here we are, in 2024, able to witness a genocide from afar, and by doing so, we can all be in the same place as those soldiers. Having seen children blown into bits on camera, hanging from a steel rod, eaten by dogs, head wide open, and bodies flattended... This pain we all carry from these images, will only make us realise that we do not want it for anyone, we want all the children to live. This realisation (and the immense healing behind it) will make us enders rather than reciprocators of violence, aggression, and murder.
+> Many of your favorite children's books were written by World War II soldiers who had witnessed so much death and destruction. Upon returning to their families and civil lives, they wrote to heal themselves. Now, in 2024, we are able to witness a genocide from afar. Having seen children blown into bits on camera, hanging (as a dead corpse) from a steel rod, eaten by dogs, with heads wide open, and bodies flattened, we are in the same place as those WW II soldiers, carrying the pain and healing from the images we see, and realizing that we do not want such violence for anyone's children.
 
 ## Still reading?
 
@@ -64,9 +60,11 @@ This, however, does not mean that the pal can get away with having leaky boundar
 
 ### Mentorship
 
-As you start, you can always reach out to your mentor (someone who has been doing palship for a little longer than you have), and they can help as well as do a "boundary-check". Namely,they will ask you about how much money and time you have been giving, and whether it is more than what you are willing to give. If you are stretched, then the mentor will help and guide you on kind ways to communicate your boundaries to your family.
+As you start, you can always reach out to your mentor (someone who has been doing palship for a little longer than you have). They can help you do a "boundary-check" by asking about the amount of money and time you have been giving, and whether it is more than what you are willing to give. If you are stretched, the mentor can help and guide you on kind ways to communicate your boundaries to your family.
 
-Note that the Gazans can be a tricky combination of *demanding* and *sensitive*, and hence your skills at communicating your boundaries nicely are crucial.
+Living in different circumstances can make it challenging to fully understand the thoughts and feelings of people in Gaza. It's important to continually develop our empathy and humanity by examining our own reactions and perceptions. Palship can be a valuable experience for those who are willing to take on this challenge.
+
+Remember, palship is not a one-way street. It requires a commitment to understanding and empathizing with your Palestinian family, just as you would with your own. By doing so, you can build a genuine and meaningful relationship that benefits both parties.
 
 ### Financial Support
 
