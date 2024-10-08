@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-10-08T14:35:54.877Z
+date: 2024-10-08T14:40:46.719Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -16,7 +16,7 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 The goal of palship is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness. We aim to cultivate a first-hand understanding of how wars (like this one) are sustained and financed, so that you can recognize the signs and become a beacon of peace in the world, when this war is over.
 
-> Many of your favorite children's books were written by World War II soldiers who had witnessed so much death and destruction. Upon returning to their families and civil lives, they wrote to heal themselves. Now, in 2024, we are able to witness a genocide from afar. Having seen children blown into bits on camera, hanging (as a dead corpse) from a steel rod, eaten by dogs, with heads wide open, and bodies flattened, we are in the same place as those WW II soldiers, carrying the pain and healing from the images we see, and realizing that we do not want such violence for anyone, or anyone's children.
+> Many of your favorite children's books were written by World War II soldiers who had witnessed so much death and destruction. Upon returning to their families and civil lives, they wrote to heal themselves. Now, in 2024, we are able to witness a genocide from afar. Technology has allowed us to see, upclose, gruseome scenes of children, men, women and elderly being literally blown into bits. Having seen all this at such high fidelity, we are in the same place as those WW II soldiers, carrying the pain and healing from the images we saw, and realizing that we do not want such violence for anyone, or anyone's children.
 
 ## Still reading?
 
@@ -42,7 +42,7 @@ You both will exchange symmetrical and true solidarity, and it is going to chang
 
 ### Action Type
 
-This is not a casual action you are taking here, it requires a lot of communication and a fair amount of commitment. It is not for those greedy with their time, or greedy with their money, either.
+This is not a casual action you are taking here, it requires a lot of communication and a fair amount of commitment. It is not for those not willing to invest enough time, or greedy with their money, either.
 
 It also requires creating clear boundaries and protecting yourself, which will prove to be a great skill, and will help you and your Palestinian family grow as people, become more generous, and more accomodating, while also remaining disciplined towards ourselves.
 
@@ -62,7 +62,7 @@ This, however, does not mean that the pal can get away with having leaky boundar
 
 As you start, you can always reach out to your mentor (someone who has been doing palship for a little longer than you have). They can help you do a "boundary-check" by asking about the amount of money and time you have been giving, and whether it is more than what you are willing to give. If you are stretched, the mentor can help and guide you on kind ways to communicate your boundaries to your family.
 
-Living in different circumstances can make it challenging to fully understand the thoughts and feelings of people in Gaza. It's important to continually develop our empathy and humanity by examining our own reactions and perceptions. Palship can be a valuable experience for those who are willing to take on this challenge.
+As we start this journey, it's important to remember that living in different circumstances can make it challenging to fully understand the thoughts and feelings of people in Gaza. How can we continue to develop our empathy and humanity, and examine our own reactions and perceptions?
 
 Remember, palship is not a one-way street. It requires a commitment to understanding and empathizing with your Palestinian family, just as you would with your own. By doing so, you can build a genuine and meaningful relationship that benefits both parties.
 
