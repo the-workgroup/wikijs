@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-10-08T14:42:07.833Z
+date: 2024-10-08T14:43:40.160Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 ## ّIntroduction
 
-> Gazans are not mere numbers to outsiders, and outsiders are not mere "money transfers" or "GoFundMe campaigns" to Gazans. We are in this together, and this is **palship** - a kind of solidarity that the world needs to end this war.
+> Gazans are not mere numbers and "GoFundMe campaigns" to outsiders, and outsiders are not mere "money transfers" and sponsors to Gazans. **We are in this together,** and this is **_palship_** - a kind of solidarity that the world needs to end this war.
 
 The goal of palship is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness. We aim to cultivate a first-hand understanding of how wars (like this one) are sustained and financed, so that you can recognize the signs and become a beacon of peace in the world, when this war is over.
 
