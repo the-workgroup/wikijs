@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-10-08T14:34:19.751Z
+date: 2024-10-08T14:35:54.877Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -36,7 +36,7 @@ Then I have an option for you, and it is a good option if you can do it.
 
 My proposition to you is to start a genuine relationship with a Gazan family. In doing so, you will not be hiding behind a donation button. You will help them financially, yes, but most importantly, you will call them like you would call your biological family, and you will try to open up to them as much as you can.
 
-As you do that, you will understand their pain when they lose a family member, and they will understand your agony and helplessness when living in a Zionist-controlled economy.
+As you do that, you will understand their pain when they lose a family member, and they will understand your agony and helplessness when living in an economy under (direct or indirect) Israeli control.
 
 You both will exchange symmetrical and true solidarity, and it is going to change you both (said from experience).
 
