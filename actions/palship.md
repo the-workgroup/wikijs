@@ -2,7 +2,7 @@
 title: Palship Program in Gaza
 description: The idea of palship was discovered independently by few individuals midst the Gaza war. In this page, I would like to present a safe and a scalable, decentralised model that worked well for me and many others.
 published: 1
-date: 2024-10-08T14:32:41.955Z
+date: 2024-10-08T14:34:19.751Z
 tags: financial, high-commitment, online, psychological, relationship
 editor: markdown
 dateCreated: 2024-09-29T00:07:44.762Z
@@ -16,7 +16,7 @@ dateCreated: 2024-09-29T00:07:44.762Z
 
 The goal of palship is to move outsiders (you, reading this post) from being a spectator of the Gaza death camp, to being a witness. We aim to cultivate a first-hand understanding of how wars (like this one) are sustained and financed, so that you can recognize the signs and become a beacon of peace in the world, when this war is over.
 
-> Many of your favorite children's books were written by World War II soldiers who had witnessed so much death and destruction. Upon returning to their families and civil lives, they wrote to heal themselves. Now, in 2024, we are able to witness a genocide from afar. Having seen children blown into bits on camera, hanging (as a dead corpse) from a steel rod, eaten by dogs, with heads wide open, and bodies flattened, we are in the same place as those WW II soldiers, carrying the pain and healing from the images we see, and realizing that we do not want such violence for anyone's children.
+> Many of your favorite children's books were written by World War II soldiers who had witnessed so much death and destruction. Upon returning to their families and civil lives, they wrote to heal themselves. Now, in 2024, we are able to witness a genocide from afar. Having seen children blown into bits on camera, hanging (as a dead corpse) from a steel rod, eaten by dogs, with heads wide open, and bodies flattened, we are in the same place as those WW II soldiers, carrying the pain and healing from the images we see, and realizing that we do not want such violence for anyone, or anyone's children.
 
 ## Still reading?
 
