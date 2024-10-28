@@ -2,7 +2,7 @@
 title: Learner Laptops
 description: Poverty is, most of the time, a result of being uninformed about the workings of the world, and the lack of education. Hence, the best thing we can do for someone is to give them a quality education. The most powerful learning tool, is a laptop.
 published: 1
-date: 2024-10-28T15:59:43.658Z
+date: 2024-10-28T16:03:33.178Z
 tags: education, empowerment, laptop, repair, technology, ubuntu
 editor: markdown
 dateCreated: 2024-10-28T15:27:04.385Z
