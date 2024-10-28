@@ -2,8 +2,8 @@
 title: Learner Laptops
 description: Poverty is, most of the time, a result of being uninformed about the workings of the world, and the lack of education. Hence, the best thing we can do for someone is to give them a quality education. The most powerful learning tool, is a laptop.
 published: 1
-date: 2024-10-28T15:27:04.385Z
-tags: education, empowerment, technology, ubuntu, repair, laptop
+date: 2024-10-28T15:59:43.658Z
+tags: education, empowerment, laptop, repair, technology, ubuntu
 editor: markdown
 dateCreated: 2024-10-28T15:27:04.385Z
 ---
@@ -59,6 +59,7 @@ Then, the teacher must build a strategy for teaching the learer(s) with multiple
 - Documentation and clear communication
 - A foreign human language, or work on improving the learner's English
 - Logical languages (e.g. Markdown, Mermaid charts, etc.)
+- Photo editing and vector design (using PhotoGIMP and Inkscape, which are very performant on old laptops running Ubuntu)
 - Books (e.g. Rich Dad Poor Dad)
 
 The area of curriculum has infinite possibilities but it is important to focus on the learner(s) and what can be more impactful for them, in their current environment.
